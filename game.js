@@ -32,7 +32,7 @@
     trinket:{name:'Shiny pocket loot',icon:'✨',base:19}, nugget:{name:'Hot nuggets',icon:'🍗',base:48}, salmon:{name:'Smoked salmon',icon:'🐠',base:40}
   };
   const BUYERS = ['crow','squirrel','pigeon','skunk','possum','rabbit'];
-  const ART = {garden:'assets/fight-garden.webp',alley:'assets/fight-alley.webp',drain:'assets/fight-drain.webp',garage:'assets/fight-garage.webp?v=2'};
+  const ART = {garden:'assets/fight-garden.webp',alley:'assets/fight-alley.webp',drain:'assets/fight-drain.webp',garage:'assets/fight-garage-v3.webp'};
   const CREW = [
     {id:'vinnie',name:'Old Crow Vinnie',faction:'crow',cost:48,skill:'Once per fight, Vinnie dive-bombs for 7 damage.'},
     {id:'nutmeg',name:'Nutmeg the Treasurer',faction:'squirrel',cost:52,skill:'Adds $4 to every racket run.'},
